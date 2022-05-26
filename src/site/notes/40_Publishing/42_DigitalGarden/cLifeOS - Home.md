@@ -1,13 +1,17 @@
 ---
-{"dg-publish":true,"permalink":"/40-publishing/42-digital-garden/c-life-os-home/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/40-publishing/42-digital-garden/c-life-os-home/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-# cLifeOS - Digital Garden
-Это экспериментальный "цифровой садик" 
+
+# cLifeOS - Система поддержки творческой жизни
+Это экспериментальное пространство для развития **Операционной системы cLife** для интересной созидательной жизни, наполненной энергией, радостью и энтузиазмом
 
 ---
 
-## Визуальные заметки
+## Сферы интересов
+### Работа мозга
+
+### Визуальные заметки
 [[Pages/Модели скетчей - визуальные заметки|Модели скетчей - визуальные заметки]]
 
 
