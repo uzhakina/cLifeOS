@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-permalink":"misc/first-note-in-digital-garden","permalink":"/misc/first-note-in-digital-garden/"}
+{"dg-publish":true,"dg-permalink":"misc/first-note-in-digital-garden","permalink":"/misc/first-note-in-digital-garden/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
+
 # cLifeOS
 О проекте | [Об авторе](https://uzhakina.ru)
 
