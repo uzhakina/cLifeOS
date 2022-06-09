@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/how-the-brain-works-the-facts-visually-explained/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
-
+⬆:: [[+++Дом|+++Дом]]
 Автор:: Серия авторов
 Год издания:: 2020
 Издательство:: DK
@@ -22,25 +22,25 @@
 
 ### ABC
 A - 
-B - 
-С - 
+B - [[Мозг человека|human brain]] [[Головной мозг|the brain]]
+С - [[Функция коммуникации|Communication feature]] [[Центральная нервная система|Central Nervous System]]
 D - 
 E - 
 F - 
 G - 
-H - 
-I - 
+H - [[Как устроен мозг человека|how the brain works]]
+I - [[Воображение|Imagination]]
 J - 
 K - 
-L - 
+L - [[Левое полушарие мозга|left hemisphere]]
 M - 
-N - 
+N - [[Нервные клетки|nerve cells]] [[Нервная система|Nervous system]]
 O - 
-P - 
+P - [[Переферийная нервная система|Peripheral nervous system]]
 Q - 
 R - 
-S - 
-T - 
+S - [[Чувства человека|Sensory experience]] [[Спинной мозг|Spinal cord]]
+T - [[Мышление человека|Thinking]]
 U - 
 V - 
 W - 
