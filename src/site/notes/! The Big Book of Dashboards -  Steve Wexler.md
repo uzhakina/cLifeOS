@@ -13,7 +13,7 @@
 Тема:: [[Визуализация Данных\|Визуализация Данных]]
 Теги:: #книга/читаю 
 Начало:: 2023-01-22
-**Прогресс:: XX/448**
+**Прогресс:: 25/451
 Окончание:: 
 ⭐:: [[ОК - The Big Book of Dashboards - Steve Wexler\|ОК - The Big Book of Dashboards - Steve Wexler]]
 
@@ -26,13 +26,19 @@
 
 ## Основные идеи
 
+### Содержание
 
+Part 1: A strong foundation: Fundamentals of [[Визуализация Данных\|Data Visualization]] - Primer, Elements, Vocabulary, Scenarios.
+Part 2: The scenarios: challenges + [[Dashboard\|Dashboard]] that solves the challenges.
+Part 3: Succeeding in the Real World: practical and psychological factors
+
+Real world business cases + why they succeed.
 
 ### ABC
-A - 
-B - 
+A - [[Q- What would be a really good way to show this\|Q- What would be a really good way to show this]]; [[Anscombe's Quartet\|Anscombe's Quartet]]
+B - [[Bar Chart\|Bar Chart]]
 С - 
-D - 
+D - [[Dashboard\|Dashboard]]
 E - 
 F - 
 G - 
@@ -40,11 +46,11 @@ H -
 I - 
 J - 
 K - 
-L - 
+L - [[Line Charts\|Line Charts]]
 M - 
 N - 
 O - 
-P - 
+P - [[Business Predicament - scenario\|Business Predicament - scenario]] [[Pie Chart\|Pie Chart]]
 Q - 
 R - 
 S - 
