@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/building-a-second-brain-tiago-forte/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/building-a-second-brain-tiago-forte/"}
 ---
 
-⬆:: [[+++Дом|+++Дом]]
-⬅:: [[Книжная полка|Книжная полка]]
-Автор:: [[TIAGO FORTE|TIAGO FORTE]]
+⬆:: [[+++Дом\|+++Дом]]
+⬅:: [[Книжная полка\|Книжная полка]]
+Автор:: [[TIAGO FORTE\|TIAGO FORTE]]
 Год издания:: 2022
 Издательство:: Profile books
 Формат:: электронная
 Язык:: Английский
 Сфера:: Обучение
-Тема:: [[Второй Мозг|Второй Мозг]]
+Тема:: [[Второй Мозг\|Второй Мозг]]
 Теги:: #книга/отложено
-Начало:: [[2022-06-13|2022-06-13]]
+Начало:: [[2022-06-13\|2022-06-13]]
 **Прогресс::** 15/283
 Окончание:: 
 
@@ -27,9 +27,9 @@
 
 ### ABC
 A - 
-B - Building a [[Второй Мозг|Second Brain]]
+B - Building a [[Второй Мозг\|Second Brain]]
 С - 
-D - [[Цифровой Сад|digital garden]]
+D - [[Цифровой Сад\|digital garden]]
 E - 
 F - 
 G - 
@@ -51,7 +51,7 @@ V -
 W - 
 X - 
 W - 
-Z - [[Zettelkasten|Zettelkasten]]
+Z - [[Zettelkasten\|Zettelkasten]]
 
 ## Цитаты
 You see, all the content you consume online and through all the different kinds of media you have at your disposal **isn’t useless**. It’s incredibly important and valuable. The onlyproblem is that you’re often consuming it **at the wrong time**.
@@ -64,7 +64,7 @@ Everyone is in **desperate need of a system** to manage the ever-increasing volu
 Those who learn how to leverage technology and **master the flow of information through their lives** will be empowered to accomplish anything they set their minds to
 p. 11
 
-Your mind is for having ideas, not holding them. —[[David Allen|David Allen]], author of [[Getting Things Done|Getting Things Done]]
+Your mind is for having ideas, not holding them. —[[David Allen\|David Allen]], author of [[Getting Things Done\|Getting Things Done]]
 
 I became the **project manager of my own condition**...
 p. 15
