@@ -1,21 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/the-big-book-of-dashboards-steve-wexler/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/the-big-book-of-dashboards-steve-wexler/"}
 ---
 
-⬆:: [[+++Дом|+++Дом]]
-⬅:: [[Книжная полка|Книжная полка]]
+⬆:: [[+++Дом\|+++Дом]]
+⬅:: [[Книжная полка\|Книжная полка]]
 Автор::  Steve Wexler, Jeffrey Shaffe, Andy Cotgreave
 Год издания:: 2017
 Издательство:: Wiley
 Формат:: электронная
 Язык:: Английский
 Сфера:: Работа с данными
-Тема:: [[Визуализация Данных|Визуализация Данных]]
+Тема:: [[Визуализация Данных\|Визуализация Данных]]
 Теги:: #книга/читаю 
 Начало:: 2023-01-22
 **Прогресс:: XX/448**
 Окончание:: 
-⭐:: [[ОК - The Big Book of Dashboards - Steve Wexler|ОК - The Big Book of Dashboards - Steve Wexler]]
+⭐:: [[ОК - The Big Book of Dashboards - Steve Wexler\|ОК - The Big Book of Dashboards - Steve Wexler]]
 
 
 ## Обложка
