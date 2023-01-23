@@ -13,7 +13,7 @@
 Тема:: [[Визуализация Данных\|Визуализация Данных]]
 Теги:: #книга/читаю 
 Начало:: [[2023-01-22\|2023-01-22]]
-**Прогресс:: 30/451
+**Прогресс:: 34/451
 Окончание:: 
 ⭐:: [[ОК - The Big Book of Dashboards - Steve Wexler\|ОК - The Big Book of Dashboards - Steve Wexler]]
 
@@ -37,7 +37,7 @@ Real world business cases + why they succeed.
 ### ABC
 A - [[Q- What would be a really good way to show this\|Q- What would be a really good way to show this]]; [[Anscombe's Quartet\|Anscombe's Quartet]]
 B - [[Bar Chart\|Bar Chart]]; [[Buliding Charts\|Buliding Charts]]
-С - 
+С - [[Сolor\|Сolor]]
 D - [[Dashboard\|Dashboard]]
 E - 
 F - 
