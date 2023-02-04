@@ -10,7 +10,9 @@
 
 # OLAP Cube
 
- - **online analytical processing**
+ - **online analytical processing** - схема (тип) использования баз данных (a type of workload)
+	 - куб - это структурирование данных для выполнения работ в рамках OLAP (a specific data structure)
+	 - OLAP можно использовать и in a columnar database
  - класс приложений для работы с [[Базы Данных\|Базы Данных]]
  - 1993 - Edgar F. Codd - придумал название
  - Категории Баз данных
@@ -25,6 +27,11 @@
 - сортировка и индексирование  - в высвобожденном пространстве после сжатия информации
 В результате -та же информация и гибкость, что и в кубах, но при этом не нужно писать сложные запросы
 
+Рекомендация автора: 
+- большие компании ушли из кубов
+	- но OLAP можно использовать:
+	- > BigQuery, Redshift and Snowflake will all say that they are well suited for OLAP _workloads_, but will never say they are OLAP cubes
+- Study Kimball, Inmon and data vault methodologies, but with an eye to **application in the new paradigm**. Understand the limitations of each of their approaches.
 
 
 
