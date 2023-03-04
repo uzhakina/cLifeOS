@@ -33,11 +33,13 @@
 
 Ссылка: https://www.youtube.com/watch?v=uLr1-8JOKc8
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uLr1-8JOKc8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+	
 ### Модуль 1. Общие HR-метрики
 6 уроков. Разберем общие метрики, укомплектованность, приемы и увольнения, текучесть, макет дашборда "Обеспеченность персоналом"
 
 ![Рис - ОБ - Дашборды для HR - содержаниеМ1.png](/img/user/%D0%A0%D0%B8%D1%81%20-%20%D0%9E%D0%91%20-%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B%20%D0%B4%D0%BB%D1%8F%20HR%20-%20%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5%D0%9C1.png)
+
 
 ![Рис - ОБ - Дашборды для HR - Общие HR метрики.png](/img/user/%D0%A0%D0%B8%D1%81%20-%20%D0%9E%D0%91%20-%20%D0%94%D0%B0%D1%88%D0%B1%D0%BE%D1%80%D0%B4%D1%8B%20%D0%B4%D0%BB%D1%8F%20HR%20-%20%D0%9E%D0%B1%D1%89%D0%B8%D0%B5%20HR%20%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D0%BA%D0%B8.png)
 Все [[HR метрики\|HR метрики]] можно разделить на 2 группы:
