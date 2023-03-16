@@ -79,6 +79,24 @@ Updates (n - 1 слог; 2 - если глагол) - 2 days
 **H/w Units 13 and 14**
 
 ### Topic
+[[2023-03-15\|2023-03-15]]
+What did you study at university 
+What did you want to be when you were a child 
+Where do you see yourself in 5 years
+
+![Pasted image 20230315195434.png](/img/user/Pasted%20image%2020230315195434.png)
+
+When I was a kid I wanted to be an Astronaut / spaceman
+It very often that we have dreams that do not come true
+
+leg sprain - растяжение ноги
+
+![Pasted image 20230315200200.png](/img/user/Pasted%20image%2020230315200200.png)
+
+![Pasted image 20230315200225.png](/img/user/Pasted%20image%2020230315200225.png)
+
+![Pasted image 20230315201716.png](/img/user/Pasted%20image%2020230315201716.png)
+
 
 
 
