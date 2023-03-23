@@ -20,4 +20,9 @@
  - serve the end user
 	 - every set of eyes will judge the work differently
  - balance: dashboard presentation + objectives + time + efficiency
- - 
+
+Улучшение дашбордов:
+
+Источник:: https://t.me/kirsha_vis/501
+
+![Pasted image 20230317185036.png](/img/user/Pasted%20image%2020230317185036.png)
