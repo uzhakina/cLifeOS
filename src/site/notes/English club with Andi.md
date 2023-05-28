@@ -102,6 +102,132 @@ leg sprain - растяжение ноги
 
 
 ### Topic
+[[2023-03-29\|2023-03-29]]
 
+Small talk topics - Some light generic topics used to set the flow for a meeting
+
+1. Weather 
+2. Food and drinks 
+3. Free time / National holidays 
+4. Books, movies, hobbies other past time activities 
+5. Pet
+
+#### Questions:
+
+Do you like pets? Do you have any?
+
+What was the last book you read?
+
+Do you like to cook?
+
+Have you ever lived in another country?
+
+Have you ever met a famous person?
+
+What do you do in your free time?
+
+What kind of food do you prefer eating when you eat out?
+
+What kind of people do you like?
+
+What languages do you know how to speak?
+
+What was the last movie you have seen?
+
+In group:
+- Common grounds
+- Followup questions
+
+full grown cat
+
+![Pasted image 20230329202410.png](/img/user/Pasted%20image%2020230329202410.png)
+
+favorite weather in every season
+
+![Pasted image 20230329203024.png](/img/user/Pasted%20image%2020230329203024.png)
+
+![Pasted image 20230329203246.png](/img/user/Pasted%20image%2020230329203246.png)
+
+
+
+### Topic
+[[2023-04-12\|2023-04-12]]
+
+How have you been ?
+How are you going to celebrate easter
+
+Past simple - weekend - this weekend I went to Armenia, I was in Armenia and I tried to pass some exam.
+- follow up question
+
+Present perfect - our week so far - this week I have seen my sister and we celebrated her birthday 
+
+Future form (be going to ) - I am going to celebrate Easter with my cousin
+
+![Pasted image 20230412195913.png](/img/user/Pasted%20image%2020230412195913.png)
+
+1 - ok, very surprised
+2 - 
+
+We wish you speedy recovery
+We wish you health and a speedy recovery
+
+Eventfull
+
+I was ill/sick/not feeling very well
+
+hope = future
+
+![Pasted image 20230412202027.png](/img/user/Pasted%20image%2020230412202027.png)
+
+![Pasted image 20230412202103.png](/img/user/Pasted%20image%2020230412202103.png)
+
+![Pasted image 20230412202118.png](/img/user/Pasted%20image%2020230412202118.png)
+![Pasted image 20230412202228.png](/img/user/Pasted%20image%2020230412202228.png)
+
+![Pasted image 20230412202946.png](/img/user/Pasted%20image%2020230412202946.png)
+
+![Pasted image 20230412203038.png](/img/user/Pasted%20image%2020230412203038.png)
+
+### Topic
+
+![Pasted image 20230426195013.png](/img/user/Pasted%20image%2020230426195013.png)
+
+hit the bus
+catch the bus
+
+miss the bus
+going to have a crash
+ make a cake 
+ 
+1. He is going to miss the bus
+2. They are going to crash 
+**3. He is go/going to make a cake** 
+4. She is going to cry 
+5. There are not going to win 
+**6. He __ going to eat the sausages **
+7. **He is __ going to make it _ time **
+8. **The ball is going to break/breaking the window**
+
+not going to make it - не успеет
+
+on time - early
+in time - to do smth но успеть (распечатать,) - вовремя
+
+![Pasted image 20230426195331.png](/img/user/Pasted%20image%2020230426195331.png)
+![Pasted image 20230426195024.png](/img/user/Pasted%20image%2020230426195024.png)
+![Pasted image 20230426203441.png](/img/user/Pasted%20image%2020230426203441.png)
+
+![Pasted image 20230426203451.png](/img/user/Pasted%20image%2020230426203451.png)
+
+![Pasted image 20230426203522.png](/img/user/Pasted%20image%2020230426203522.png)
+
+
+### Topic
+
+### Topic
+
+### Topic
+
+### Topic
 
 
